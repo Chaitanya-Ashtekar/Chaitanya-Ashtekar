@@ -9,13 +9,13 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/chaitanya-ashtekar-bb6974203/" target="_blank">
-  <img alt="Vladyslav Vasylenko | LinkedIn" height="30" width="30" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+  <img alt="Vladyslav Vasylenko | LinkedIn" margin-right="5px" height="30" width="30" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Chaitanya2032" target="_blank">
-  <img alt="Vladyslav Vasylenko | Twitter" height="30" width="30" src="https://www.svgrepo.com/show/183608/twitter.svg" />
+  <img alt="Vladyslav Vasylenko | Twitter" margin-right="5px" height="30" width="30" src="https://www.svgrepo.com/show/183608/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/chaitanya.s.ashtekar/" target="_blank">
-  <img alt="Vladyslav Vasylenko | Instagram" height="30" width="30" src="https://www.svgrepo.com/show/111199/instagram.svg" />
+  <img alt="Vladyslav Vasylenko | Instagram" margin-right="5px" height="30" width="30" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 
 <br />
