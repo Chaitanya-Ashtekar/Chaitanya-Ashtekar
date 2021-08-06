@@ -26,14 +26,33 @@
 
 ### Languages and Tools:
 
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />
+<a href="https://www.w3.org/html" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/
+</a>
+<a href="https://www.w3schools.com/css" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://jquery.com" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
+</a>
+<a href="https://atom.io/" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="Atom-code editor" width="40" height="40"/>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="adobe xd" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
 
 
 <br />
