@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="" width="26px" src="https://cdn.imgbin.com/23/4/0/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" />
+<img align="left" alt="" width="26px" src="https://icon2.cleanpng.com/20180514/abe/kisspng-atom-text-editor-source-code-editor-visual-studio-5af92043eaf496.4540113715262761639624.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
