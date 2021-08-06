@@ -6,9 +6,9 @@
 ## I'm a Student, Developer, and Explorer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Earn more and more Hands on Experience of Languages I've learnt by making more projects
+- 🥅 2021 Goal: Earn more and more Hands on Experience of Languages I've learnt by making more projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
