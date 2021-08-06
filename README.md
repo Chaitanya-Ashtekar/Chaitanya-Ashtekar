@@ -14,7 +14,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### Languages and Tools:
 
