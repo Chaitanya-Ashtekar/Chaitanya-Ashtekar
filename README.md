@@ -1,8 +1,8 @@
 ### Hi there, I'm Chaitanya 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+ -->
 ## I'm a Student, Developer, and Explorer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
@@ -43,7 +43,7 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -57,7 +57,7 @@
 <!--
 ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -71,7 +71,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
@@ -84,14 +84,14 @@
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Chaitanya-Ashtekar's GitHub Stats" src="https://github-readme-stats.chaitanya-ashtekar.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com -->
