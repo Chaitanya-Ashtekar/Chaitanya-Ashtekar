@@ -22,7 +22,7 @@
 
 <br />
 
-<img align="right" width="550px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="550px" alt="GIF" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" />
 
 ### Languages and Tools:
 
